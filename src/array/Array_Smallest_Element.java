@@ -9,7 +9,7 @@ public class Array_Smallest_Element {
          if(array[i]<min)
              min=array[i];
         }
-        System.out.println("The smallest element of the given array is"+min);
+        System.out.println("The smallest element of the given array is "+min);
 
     }
 }
