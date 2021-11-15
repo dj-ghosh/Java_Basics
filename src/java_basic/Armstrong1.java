@@ -1,4 +1,6 @@
-public class Armstrong {
+package java_basic;
+
+public class Armstrong1 {
 
 	private static int number,remainder,result,temporary_value,cube;
 

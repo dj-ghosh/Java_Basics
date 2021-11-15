@@ -1,5 +1,7 @@
+package java_basic;
+
 // To check a number prime or not
-public class Primenumber {
+public class Primenumber1 {
 
 	private static int input,i,flag,m;
 

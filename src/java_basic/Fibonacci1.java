@@ -1,5 +1,6 @@
+package java_basic;
 
-public class Fibonacci {
+public class Fibonacci1 {
 
 	private static int temp1,temp2,temp3,count,i;
 

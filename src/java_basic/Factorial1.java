@@ -1,5 +1,6 @@
+package java_basic;
 
-public class Factorial {
+public class Factorial1 {
 
 	private static int number,i,result;
 

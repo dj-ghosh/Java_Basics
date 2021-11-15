@@ -1,4 +1,6 @@
-public class Palindrome {
+package java_basic;
+
+public class Palindrome1 {
 
 	private static int sum,remainder,number,temporary_value;
 
